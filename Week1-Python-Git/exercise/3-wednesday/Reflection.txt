@@ -1,0 +1,10 @@
+a) Chose a set for seen_ids because sets prevent duplicates, which is suitable for a collection that requires uniqueness.
+Chose a dict for lookups because it allows for key-value pairs, making key lookup easy to find the associated case data.
+
+b) Adding or removing elements/test cases.
+
+c) Merge conflicts caused by multiple people working on the same file 
+and allowing organized independent development of features before merging into the main codebase.
+
+d) For part 5 at first I wasn't originally using get(), but then I realized the error with the case that didn't have a status, 
+and so I made those changes.

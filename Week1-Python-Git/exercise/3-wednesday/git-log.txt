@@ -1,0 +1,9 @@
+b5da019 (HEAD -> main, origin/main) Merge branch 'feature/test-data-manager'
+e311f34 Document how to run (parallel work on main)
+1bf432b (origin/feature/test-data-manager, feature/test-data-manager) Mark status done in PROJECT_NOTES
+ab7564d Add status counts and planned-vs-executed check
+ee0e719 Add lookup by test ID with dict.get
+5114938 Add grouping by module with defaultdict
+e2274d4 Add duplicate removal with a set
+f40b9e4 Add raw ID list and slicing preview
+955e199 Initial commit: starter files
