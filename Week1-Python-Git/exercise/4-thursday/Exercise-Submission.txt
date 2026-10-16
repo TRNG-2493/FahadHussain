@@ -1,0 +1,10 @@
+Repo Url: https://github.com/Divyan03/qea-week1-day4-divyan03
+PR: https://github.com/Divyan03/qea-week1-day4-divyan03/pull/1
+RETROSPECTIVE.md: https://github.com/Divyan03/qea-week1-day4-divyan03/blob/feature/test-utils/RETROSPECTIVE.md
+
+Output of git shortlog --sne:
+6 Divyan03 111556193+Divyan03@users.noreply.github.com 
+4 FahadH31 129327022+FahadH31@users.noreply.github.com
+
+Final line of check_exercise.py 
+20/20 checks passed
